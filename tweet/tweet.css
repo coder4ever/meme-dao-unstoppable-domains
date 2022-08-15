@@ -1,0 +1,11 @@
+.root {
+    flex-grow: 1;
+}
+
+.paper {
+    text-align: center;
+}
+
+.card {
+    width: 100%;
+}
