@@ -14,10 +14,7 @@ Allows folowers to include a "member" flag in the call to follow. This charges t
 
 ### Website
 
-- https://memedao.netlify.app/
-<!-- -
-correct
- https://meme-dao.netlify.app/ -->
+- https://meme-dao.netlify.app/
 
 ### Video
 
@@ -28,14 +25,3 @@ correct
 - UnstoppableDomain email: thewebamigos@gmail.com
 - Discord ID: coder#5013
 
-### Notes
-
-First
-check if you user is log in
-get
-address = username
-avatar
-save it it.
-
-YES => Show the app
-NO => Make the user log in
