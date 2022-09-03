@@ -12,6 +12,9 @@ Mirrors can't be collected (users can still bid, but the frontend shouldn't give
 
 Allows folowers to include a "member" flag in the call to follow. This charges them a fee and adds them to the module's storage as a member of the profile. A whitelist could be implemented.
 
+### Repo 
+https://github.com/coder4ever/meme-dao-unstoppable-domains/blob/main/README.md
+
 ### Website
 
 - https://meme-dao.netlify.app/
